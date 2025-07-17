@@ -1,7 +1,5 @@
 <div align="center">
 
-[![FMMxMod-Creator Logo](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/banner_pic.png)](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/banner_pic.png)
-
 # 🎮 FMM x Mod Creator App
 
 [![Language](https://img.shields.io/badge/Language-中文-blue.svg)](README_CN.md)
@@ -11,6 +9,8 @@
 [![PySide6](https://img.shields.io/badge/PySide6-Qt6-brightgreen.svg)](https://doc.qt.io/qtforpython/)
 [![Stars](https://img.shields.io/github/stars/ArjunLee/FMMxMod-Creator?style=social)](https://github.com/ArjunLee/FMMxMod-Creator/stargazers)
 [![Forks](https://img.shields.io/github/forks/ArjunLee/FMMxMod-Creator?style=social)](https://github.com/ArjunLee/FMMxMod-Creator/network/members)
+
+![FMMxMod-Creator banner](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/banner_pic.png)
 
 **🚀 Modern MOD Creation Tool for Game MOD Enthusiasts**
 
@@ -94,7 +94,6 @@ python main.py
 
 ---
 
-<<<<<<< HEAD
 ## 🎯 Quick Start
 
 ### 1️⃣ Create Your First MOD
@@ -140,9 +139,12 @@ We provide detailed tutorial manuals for users of different languages:
 
 <div align="center">
 
-![MOD Creation Effect Demo](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/video/Mod_effect_display_video.mp4)
+<video width="320" height="240" controls>
+  <source src="https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/video/Mod_effect_display_video.mp4" type="video/mp4">
+  你的浏览器不支持视频播放。
+</video>
 
-*This video demonstrates the actual effects of MODs created using this tool in the game*
+*This video demonstrates the actual in-game effects of the MOD created with this tool in FFM.*
 
 </div>
 
@@ -166,7 +168,7 @@ Here are real MOD cases created with this tool and published on Nexusmods:
 
 </div>
 
-*These MODs showcase the powerful capabilities of this tool in creating complex, modular MODs with bilingual interfaces and highly customizable installation options.*
+*These MODs demonstrate the tool's capability in creating complex, modular MODs.*
 
 ---
 
@@ -360,6 +362,3 @@ FMMxMod-Creator/
 ├── 📋 requirements.txt                    # Python dependencies list
 └── 📦 测试错误的构建配置文件导入.zip        # Test file
 ```
-=======
-**注意**: 本项目仍在积极开发中，功能和API可能会发生变化。建议在生产环境使用前进行充分测试。
->>>>>>> README-regular-update

@@ -139,9 +139,12 @@ python main.py
 
 <div align="center">
 
-![MOD制作效果展示](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/video/Mod_effect_display_video.mp4)
+<video width="320" height="240" controls>
+  <source src="https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/video/Mod_effect_display_video.mp4" type="video/mp4">
+  你的浏览器不支持视频播放。
+</video>
 
-*此视频展示了使用本工具制作的MOD在游戏中的实际效果*
+*此视频展示了使用本工具制作的MOD在FFM中的实际效果*
 
 </div>
 
@@ -165,7 +168,7 @@ python main.py
 
 </div>
 
-*这些MOD展示了本工具在创建复杂、模块化MOD方面的强大能力，支持中英双语界面和高度自定义的安装选项。*
+*这些MOD展示了工具在创建复杂、模块化MOD方面的能力。*
 
 ---
 
