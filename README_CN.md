@@ -139,10 +139,7 @@ python main.py
 
 <div align="center">
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/video/Mod_effect_display_video.mp4" type="video/mp4">
-  你的浏览器不支持视频播放。
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LnWoCBpKzdI?si=pOyXN4bgmFIaeZro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *此视频展示了使用本工具制作的MOD在FFM中的实际效果*
 
