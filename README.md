@@ -1,6 +1,9 @@
-# FMM Creator App
+# FMM x Mod Creator App
 
-一个专为游戏MOD制作者设计的现代化桌面应用程序，提供直观的界面来创建和管理游戏模组。
+![FMMxMod-Creator Logo](https://raw.githubusercontent.com/ArjunLee/FMMxMod-Creator/Other/image/banner_pic.png)
+
+FMM x Mod Creator 是一个转为游戏MOD爱好者打造的MOD创建工具，使用美观的UI和现代化的便捷操作，让每一个人都可以构建出，极为复杂配置的`Fluffy Mod Manager`MOD文件包。
+
 
 ## 🌟 功能特性
 
