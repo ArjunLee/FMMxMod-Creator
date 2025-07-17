@@ -1,0 +1,22 @@
+# GUI框架和组件
+PySide6>=6.5.0
+PySide6-Fluent-Widgets>=1.4.0
+
+# 文件压缩和解压缩
+py7zr>=0.20.0
+rarfile>=4.0
+
+# 图像处理
+Pillow>=10.0.0
+
+# 系统主题检测
+darkdetect>=0.8.0
+
+# 配置文件处理
+PyYAML>=6.0
+
+# 加密和安全
+cryptography>=41.0.0
+
+# 数值计算（如果需要）
+numpy>=1.24.0
