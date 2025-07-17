@@ -1,0 +1,22 @@
+{
+  "theme_mode": "Dark",
+  "window_width": 1600,
+  "window_height": 960,
+  "window_position": null,
+  "mica_enabled": true,
+  "language": "zh_CN",
+  "theme_color": "bichun_green",
+  "theme_color_hex": "#10893E",
+  "last_output_dir": "",
+  "mod_name": "TEST-2B_Uniform-Modular-EN_CN",
+  "mod_version": "1.2.0",
+  "mod_author": "Arjun520",
+  "mod_category": "Outfits",
+  "build_directory": "",
+  "cache_directory": "",
+  "cache_enabled": true,
+  "build_type": "zip",
+  "edit_tips_shown": false,
+  "qfluent_theme_color": "#ff10893e",
+  "qfluent_theme_mode": "Dark"
+}

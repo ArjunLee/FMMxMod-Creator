@@ -1,0 +1,959 @@
+[
+  {
+    "build_info": {
+      "build_time": "2025-07-16T16:55:10.711763",
+      "output_path": "F:\\ArjunPC\\Desktop\\TEST-2B_Uniform-Modular-EN_CN-20250716_1655.zip",
+      "temp_dir": "C:\\Users\\shin3\\AppData\\Roaming\\FMM x MOD Creator\\.cache\\TEST-2B_Uniform-Modular-EN_CN-20250716_1655",
+      "cache_dir": "I:\\Workspace\\FMM_Creator_App\\app\\.cache"
+    },
+    "mod_info": {
+      "name": "TEST-2B_Uniform-Modular-EN_CN",
+      "version": "1.2.0",
+      "author": "Arjun520",
+      "category": "Outfits"
+    },
+    "cover_block": {
+      "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -0- 0- Cover -0/0_cover.jpg",
+      "description": "This is a gorgeous cover",
+      "cover_tag": "",
+      "type": "cover"
+    },
+    "content_blocks": [
+      {
+        "type": "warning",
+        "block_tag": "",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -0- 1- Warning -0/0_cover.jpg",
+        "description": "For each category, ensure that only one module is active."
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "basic files (Must Install)",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -0- 2- basic files -0/basic_files.jpg",
+        "description": "This is a necessary main texture file that must be enabled.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -0- 2- basic files -0/Nier_01_Modular_Main_P.pak",
+            "file_name": "Nier_01_Modular_Main_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -0- 2- basic files -0/Nier_01_Modular_Main_P.ucas",
+            "file_name": "Nier_01_Modular_Main_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -0- 2- basic files -0/Nier_01_Modular_Main_P.utoc",
+            "file_name": "Nier_01_Modular_Main_P.utoc"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -0- 2- basic files -0/Nier_01_Modular_Materials_P.pak",
+            "file_name": "Nier_01_Modular_Materials_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -0- 2- basic files -0/Nier_01_Modular_Materials_P.ucas",
+            "file_name": "Nier_01_Modular_Materials_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -0- 2- basic files -0/Nier_01_Modular_Materials_P.utoc",
+            "file_name": "Nier_01_Modular_Materials_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Special"
+      },
+      {
+        "type": "warning",
+        "block_tag": "Special",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -01- Special-01-Warning/note_pic.jpg",
+        "description": "Note: If you activate any of the items in this \"Special Edition\" category, all subsequent steps will be invalid. Please skip the next steps checkbox and complete the customization of the mod directly."
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Special - HeelsOnly",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -01- Special-02-HeelsOnly/HeelsOnly.jpg",
+        "description": "Only wear high heels, nothing else. Note: Customization of areola and pubic hair is temporarily unavailable. Selecting this will immediately complete the Mod customization in the next step.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -01- Special-02-HeelsOnly/特别版-只穿高跟鞋_HeelsOnly/Addon_Nier_01_HeelsOnly_P.pak",
+            "file_name": "Addon_Nier_01_HeelsOnly_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -01- Special-02-HeelsOnly/特别版-只穿高跟鞋_HeelsOnly/Addon_Nier_01_HeelsOnly_P.ucas",
+            "file_name": "Addon_Nier_01_HeelsOnly_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -01- Special-02-HeelsOnly/特别版-只穿高跟鞋_HeelsOnly/Addon_Nier_01_HeelsOnly_P.utoc",
+            "file_name": "Addon_Nier_01_HeelsOnly_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Special - LimbsOnly",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -01- Special-03-LimbsOnly/LimbsOnly.jpg",
+        "description": "As shown in the image, only Eve's limbs are clothed. Please note that customization of areolas and pubic hair is temporarily unavailable. After selection, proceed to the next step to immediately finalize the Mod customization.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -01- Special-03-LimbsOnly/特别版-只穿四肢的衣物_LimbsOnly/Addon_Nier_01_LimbsOnly_P.pak",
+            "file_name": "Addon_Nier_01_LimbsOnly_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -01- Special-03-LimbsOnly/特别版-只穿四肢的衣物_LimbsOnly/Addon_Nier_01_LimbsOnly_P.ucas",
+            "file_name": "Addon_Nier_01_LimbsOnly_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -01- Special-03-LimbsOnly/特别版-只穿四肢的衣物_LimbsOnly/Addon_Nier_01_LimbsOnly_P.utoc",
+            "file_name": "Addon_Nier_01_LimbsOnly_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Chest(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Transparent Chest",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -02-01-ChestTransparent/1_ChestTransparent.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -02-01-ChestTransparent/胸衣-半透明_ChestTransparent/Addon_Nier_01_ChestTransparent_P.pak",
+            "file_name": "Addon_Nier_01_ChestTransparent_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -02-01-ChestTransparent/胸衣-半透明_ChestTransparent/Addon_Nier_01_ChestTransparent_P.ucas",
+            "file_name": "Addon_Nier_01_ChestTransparent_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -02-01-ChestTransparent/胸衣-半透明_ChestTransparent/Addon_Nier_01_ChestTransparent_P.utoc",
+            "file_name": "Addon_Nier_01_ChestTransparent_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Hide Chest",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -02-02-HideChest/1_HideChest.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -02-02-HideChest/胸衣-隐藏_HideChest/Addon_Nier_01_HideChest_P.pak",
+            "file_name": "Addon_Nier_01_HideChest_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -02-02-HideChest/胸衣-隐藏_HideChest/Addon_Nier_01_HideChest_P.ucas",
+            "file_name": "Addon_Nier_01_HideChest_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -02-02-HideChest/胸衣-隐藏_HideChest/Addon_Nier_01_HideChest_P.utoc",
+            "file_name": "Addon_Nier_01_HideChest_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Keep Chest",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -02-02-KeepChest/1_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -02-02-KeepChest/activate-22.pak",
+            "file_name": "activate-22.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Chest Ornament(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "ChestOrnament Transparent",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-01-ChestOrnamentTransparent/2_ChestOrnamentTransparent.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-01-ChestOrnamentTransparent/胸饰-半透明_ChestOrnamentTransparent/Addon_Nier_01_ChestOrnamentTransparent_P.pak",
+            "file_name": "Addon_Nier_01_ChestOrnamentTransparent_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-01-ChestOrnamentTransparent/胸饰-半透明_ChestOrnamentTransparent/Addon_Nier_01_ChestOrnamentTransparent_P.ucas",
+            "file_name": "Addon_Nier_01_ChestOrnamentTransparent_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-01-ChestOrnamentTransparent/胸饰-半透明_ChestOrnamentTransparent/Addon_Nier_01_ChestOrnamentTransparent_P.utoc",
+            "file_name": "Addon_Nier_01_ChestOrnamentTransparent_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "ChestOrnament No Glass",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-02-ChestOrnamentNoGlass/2_ChestOrnamentNoGlass.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-02-ChestOrnamentNoGlass/胸饰-无黑丝层_ChestOrnamentNoGlass/Addon_Nier_01_ChestOrnamentNoGlass_P.pak",
+            "file_name": "Addon_Nier_01_ChestOrnamentNoGlass_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-02-ChestOrnamentNoGlass/胸饰-无黑丝层_ChestOrnamentNoGlass/Addon_Nier_01_ChestOrnamentNoGlass_P.ucas",
+            "file_name": "Addon_Nier_01_ChestOrnamentNoGlass_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-02-ChestOrnamentNoGlass/胸饰-无黑丝层_ChestOrnamentNoGlass/Addon_Nier_01_ChestOrnamentNoGlass_P.utoc",
+            "file_name": "Addon_Nier_01_ChestOrnamentNoGlass_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Hide ChestOrnament",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-03-HideChestOrnament/2_HideChestOrnament.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-03-HideChestOrnament/胸饰-隐藏_HideChestOrnament/Addon_Nier_01_HideChestOrnament_P.pak",
+            "file_name": "Addon_Nier_01_HideChestOrnament_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-03-HideChestOrnament/胸饰-隐藏_HideChestOrnament/Addon_Nier_01_HideChestOrnament_P.ucas",
+            "file_name": "Addon_Nier_01_HideChestOrnament_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-03-HideChestOrnament/胸饰-隐藏_HideChestOrnament/Addon_Nier_01_HideChestOrnament_P.utoc",
+            "file_name": "Addon_Nier_01_HideChestOrnament_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Keep ChestOrnament",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-04-KeepChestOrnamentTransparent/2_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -03-04-KeepChestOrnamentTransparent/activate-34.pak",
+            "file_name": "activate-34.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Sleeves(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Sleeves Transparent",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -04-01-SleevesTransparent/3_SleevesTransparent.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -04-01-SleevesTransparent/袖子-半透明_SleevesTransparent/Addon_Nier_01_SleevesTransparent_P.pak",
+            "file_name": "Addon_Nier_01_SleevesTransparent_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -04-01-SleevesTransparent/袖子-半透明_SleevesTransparent/Addon_Nier_01_SleevesTransparent_P.ucas",
+            "file_name": "Addon_Nier_01_SleevesTransparent_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -04-01-SleevesTransparent/袖子-半透明_SleevesTransparent/Addon_Nier_01_SleevesTransparent_P.utoc",
+            "file_name": "Addon_Nier_01_SleevesTransparent_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Hide Sleeves",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -04-02-HideSleeves/3_HideSleeves.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -04-02-HideSleeves/袖子-隐藏_HideSleeves/Addon_Nier_01_HideSleeves_P.pak",
+            "file_name": "Addon_Nier_01_HideSleeves_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -04-02-HideSleeves/袖子-隐藏_HideSleeves/Addon_Nier_01_HideSleeves_P.ucas",
+            "file_name": "Addon_Nier_01_HideSleeves_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -04-02-HideSleeves/袖子-隐藏_HideSleeves/Addon_Nier_01_HideSleeves_P.utoc",
+            "file_name": "Addon_Nier_01_HideSleeves_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Keep Sleeves",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -04-03-KeepSleeves/3_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -04-03-KeepSleeves/activate-43.pak",
+            "file_name": "activate-43.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Cuff(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Hide Feathers",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -05-01/4_HideFeathers.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -05-01/袖口-隐藏羽毛_HideFeathers/Addon_Nier_01_HideFeathers_P.pak",
+            "file_name": "Addon_Nier_01_HideFeathers_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -05-01/袖口-隐藏羽毛_HideFeathers/Addon_Nier_01_HideFeathers_P.ucas",
+            "file_name": "Addon_Nier_01_HideFeathers_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -05-01/袖口-隐藏羽毛_HideFeathers/Addon_Nier_01_HideFeathers_P.utoc",
+            "file_name": "Addon_Nier_01_HideFeathers_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Keep Feathers",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -05-02/4_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -05-02/activate-52.pak",
+            "file_name": "activate-52.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Gloves(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Hide Gloves",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -06-01/5_HideGloves.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -06-01/手套-隐藏_HideGloves/Addon_Nier_01_HideGloves_P.pak",
+            "file_name": "Addon_Nier_01_HideGloves_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -06-01/手套-隐藏_HideGloves/Addon_Nier_01_HideGloves_P.ucas",
+            "file_name": "Addon_Nier_01_HideGloves_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -06-01/手套-隐藏_HideGloves/Addon_Nier_01_HideGloves_P.utoc",
+            "file_name": "Addon_Nier_01_HideGloves_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Gloves Finger less",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -06-02/5_GlovesFingerless.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -06-02/手套-露指_GlovesFingerless/Addon_Nier_01_GlovesFingerless_P.pak",
+            "file_name": "Addon_Nier_01_GlovesFingerless_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -06-02/手套-露指_GlovesFingerless/Addon_Nier_01_GlovesFingerless_P.ucas",
+            "file_name": "Addon_Nier_01_GlovesFingerless_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -06-02/手套-露指_GlovesFingerless/Addon_Nier_01_GlovesFingerless_P.utoc",
+            "file_name": "Addon_Nier_01_GlovesFingerless_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Keep Gloves",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -06-03/5_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -06-03/activate-63.pak",
+            "file_name": "activate-63.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Back(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Back Transparent",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -07-01/6_BackTransparent.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -07-01/背部-半透明_BackTransparent/Addon_Nier_01_BackTransparent_P.pak",
+            "file_name": "Addon_Nier_01_BackTransparent_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -07-01/背部-半透明_BackTransparent/Addon_Nier_01_BackTransparent_P.ucas",
+            "file_name": "Addon_Nier_01_BackTransparent_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -07-01/背部-半透明_BackTransparent/Addon_Nier_01_BackTransparent_P.utoc",
+            "file_name": "Addon_Nier_01_BackTransparent_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Hide Back",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -07-02/6_HideBack.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -07-02/背部-隐藏_HideBack/Addon_Nier_01_HideBack_P.pak",
+            "file_name": "Addon_Nier_01_HideBack_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -07-02/背部-隐藏_HideBack/Addon_Nier_01_HideBack_P.ucas",
+            "file_name": "Addon_Nier_01_HideBack_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -07-02/背部-隐藏_HideBack/Addon_Nier_01_HideBack_P.utoc",
+            "file_name": "Addon_Nier_01_HideBack_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Keep Back",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -07-03/6_original.jpg",
+        "description": "As shown in the picture, but it is a solid material, not a transparent back.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -07-03/activate-73.pak",
+            "file_name": "activate-73.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Panties_Leotard(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Panties Transparent",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-01/7_PantiesTransparent.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-01/体操服-白色半透明_PantiesTransparent/Addon_Nier_01_PantiesTransparent_P.pak",
+            "file_name": "Addon_Nier_01_PantiesTransparent_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-01/体操服-白色半透明_PantiesTransparent/Addon_Nier_01_PantiesTransparent_P.ucas",
+            "file_name": "Addon_Nier_01_PantiesTransparent_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-01/体操服-白色半透明_PantiesTransparent/Addon_Nier_01_PantiesTransparent_P.utoc",
+            "file_name": "Addon_Nier_01_PantiesTransparent_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Panties Transparent Black",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-02/7_PantiesTransparentBlack.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-02/体操服-黑色半透明_PantiesTransparentBlack/Addon_Nier_01_PantiesTransparentBlack_P.pak",
+            "file_name": "Addon_Nier_01_PantiesTransparentBlack_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-02/体操服-黑色半透明_PantiesTransparentBlack/Addon_Nier_01_PantiesTransparentBlack_P.ucas",
+            "file_name": "Addon_Nier_01_PantiesTransparentBlack_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-02/体操服-黑色半透明_PantiesTransparentBlack/Addon_Nier_01_PantiesTransparentBlack_P.utoc",
+            "file_name": "Addon_Nier_01_PantiesTransparentBlack_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Hide Panties",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-03/7_HidePanties.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-03/体操服-隐藏_HidePanties/Addon_Nier_01_HidePanties_P.pak",
+            "file_name": "Addon_Nier_01_HidePanties_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-03/体操服-隐藏_HidePanties/Addon_Nier_01_HidePanties_P.ucas",
+            "file_name": "Addon_Nier_01_HidePanties_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-03/体操服-隐藏_HidePanties/Addon_Nier_01_HidePanties_P.utoc",
+            "file_name": "Addon_Nier_01_HidePanties_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Keep Panties",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-04/7_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -08-04/activate-84.pak",
+            "file_name": "activate-84.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Skirt(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Skirt Transparent",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -09-01/8_SkirtTransparent.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -09-01/裙子-半透明_SkirtTransparent/Addon_Nier_01_SkirtTransparent_P.pak",
+            "file_name": "Addon_Nier_01_SkirtTransparent_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -09-01/裙子-半透明_SkirtTransparent/Addon_Nier_01_SkirtTransparent_P.ucas",
+            "file_name": "Addon_Nier_01_SkirtTransparent_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -09-01/裙子-半透明_SkirtTransparent/Addon_Nier_01_SkirtTransparent_P.utoc",
+            "file_name": "Addon_Nier_01_SkirtTransparent_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Hide Skirt",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -09-02/8_HideSkirt.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -09-02/裙子-隐藏_HideSkirt/Addon_Nier_01_HideSkirt_P.pak",
+            "file_name": "Addon_Nier_01_HideSkirt_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -09-02/裙子-隐藏_HideSkirt/Addon_Nier_01_HideSkirt_P.ucas",
+            "file_name": "Addon_Nier_01_HideSkirt_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -09-02/裙子-隐藏_HideSkirt/Addon_Nier_01_HideSkirt_P.utoc",
+            "file_name": "Addon_Nier_01_HideSkirt_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Keep Skirt",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -09-03/8_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -09-03/activate-93.pak",
+            "file_name": "activate-93.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Ribbon(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Ribbon Smaller",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -10-01/9_RibbonSmaller.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -10-01/裙子缎带-缩小_RibbonSmaller/Addon_Nier_01_RibbonSmaller_P.pak",
+            "file_name": "Addon_Nier_01_RibbonSmaller_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -10-01/裙子缎带-缩小_RibbonSmaller/Addon_Nier_01_RibbonSmaller_P.ucas",
+            "file_name": "Addon_Nier_01_RibbonSmaller_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -10-01/裙子缎带-缩小_RibbonSmaller/Addon_Nier_01_RibbonSmaller_P.utoc",
+            "file_name": "Addon_Nier_01_RibbonSmaller_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Hide Ribbon",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -10-02/9_HideRibbon.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -10-02/裙子缎带-隐藏_HideRibbon/Addon_Nier_01_HideRibbon_P.pak",
+            "file_name": "Addon_Nier_01_HideRibbon_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -10-02/裙子缎带-隐藏_HideRibbon/Addon_Nier_01_HideRibbon_P.ucas",
+            "file_name": "Addon_Nier_01_HideRibbon_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -10-02/裙子缎带-隐藏_HideRibbon/Addon_Nier_01_HideRibbon_P.utoc",
+            "file_name": "Addon_Nier_01_HideRibbon_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Keep Ribbon",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -10-03/9_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -10-03/activate-103.pak",
+            "file_name": "activate-103.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "LegBand(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Hide LegBand",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -11-01/10_HideLegBand.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -11-01/腿环-隐藏_HideLegBand/Addon_Nier_01_HideLegBand_P.pak",
+            "file_name": "Addon_Nier_01_HideLegBand_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -11-01/腿环-隐藏_HideLegBand/Addon_Nier_01_HideLegBand_P.ucas",
+            "file_name": "Addon_Nier_01_HideLegBand_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -11-01/腿环-隐藏_HideLegBand/Addon_Nier_01_HideLegBand_P.utoc",
+            "file_name": "Addon_Nier_01_HideLegBand_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Keep LegBand",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -11-02/10_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -11-02/activate-112.pak",
+            "file_name": "activate-112.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Stockings(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Hide Stockings",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -12-01/11_HideStockings.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -12-01/黑色丝袜-隐藏_HideStockings/Addon_Nier_01_HideStockings_P.pak",
+            "file_name": "Addon_Nier_01_HideStockings_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -12-01/黑色丝袜-隐藏_HideStockings/Addon_Nier_01_HideStockings_P.ucas",
+            "file_name": "Addon_Nier_01_HideStockings_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -12-01/黑色丝袜-隐藏_HideStockings/Addon_Nier_01_HideStockings_P.utoc",
+            "file_name": "Addon_Nier_01_HideStockings_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Keep Stockings",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -12-02/11_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -12-02/activate-122.pak",
+            "file_name": "activate-122.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Boots(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Hide Boots",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -13-01/12_HideBoots.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -13-01/长筒靴-隐藏_HideBoots/Addon_Nier_01_HideBoots_P.pak",
+            "file_name": "Addon_Nier_01_HideBoots_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -13-01/长筒靴-隐藏_HideBoots/Addon_Nier_01_HideBoots_P.ucas",
+            "file_name": "Addon_Nier_01_HideBoots_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -13-01/长筒靴-隐藏_HideBoots/Addon_Nier_01_HideBoots_P.utoc",
+            "file_name": "Addon_Nier_01_HideBoots_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Keep Boots",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -13-02/12_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -13-02/activate-132.pak",
+            "file_name": "activate-132.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Pubes(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Add Pubes",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -14-01/13_AddPubes.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -14-01/添加-阴毛_AddPubes/Addon_Nier_01_AddPubes_P.pak",
+            "file_name": "Addon_Nier_01_AddPubes_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -14-01/添加-阴毛_AddPubes/Addon_Nier_01_AddPubes_P.ucas",
+            "file_name": "Addon_Nier_01_AddPubes_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -14-01/添加-阴毛_AddPubes/Addon_Nier_01_AddPubes_P.utoc",
+            "file_name": "Addon_Nier_01_AddPubes_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "No Pubes",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -14-02/13_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -14-02/activate-142.pak",
+            "file_name": "activate-142.pak"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "separator",
+        "separator_name": "Skin(Choose Only One)"
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Shiny Skin",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -15-01/14_ShinySkin.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -15-01/添加-闪亮的皮肤_ShinySkin/Addon_Nier_01_ShinySkin_P.pak",
+            "file_name": "Addon_Nier_01_ShinySkin_P.pak"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -15-01/添加-闪亮的皮肤_ShinySkin/Addon_Nier_01_ShinySkin_P.ucas",
+            "file_name": "Addon_Nier_01_ShinySkin_P.ucas"
+          },
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -15-01/添加-闪亮的皮肤_ShinySkin/Addon_Nier_01_ShinySkin_P.utoc",
+            "file_name": "Addon_Nier_01_ShinySkin_P.utoc"
+          }
+        ],
+        "folder_path": ""
+      },
+      {
+        "type": "mod_file",
+        "area_mark": "",
+        "module_name": "Original Skin",
+        "image_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -15-02/14_original.jpg",
+        "description": "As shown in the image.",
+        "files": [
+          {
+            "file_path": "I:/Workspace/FMM_Creator_App/Test_Project/FMM-2B_Uniform-Modular-EN_CN/2B_Uniform-Modular -15-02/activate-152.pak",
+            "file_name": "activate-152.pak"
+          }
+        ],
+        "folder_path": ""
+      }
+    ],
+    "block_order": [
+      "cover",
+      "warning_1",
+      "mod_file_basic files (Must Install)",
+      "separator_Special",
+      "warning_Special",
+      "mod_file_Special - HeelsOnly",
+      "mod_file_Special - LimbsOnly",
+      "separator_Chest(Choose Only One)",
+      "mod_file_Transparent Chest",
+      "mod_file_Hide Chest",
+      "mod_file_Keep Chest",
+      "separator_Chest Ornament(Choose Only One)",
+      "mod_file_ChestOrnament Transparent",
+      "mod_file_ChestOrnament No Glass",
+      "mod_file_Hide ChestOrnament",
+      "mod_file_Keep ChestOrnament",
+      "separator_Sleeves(Choose Only One)",
+      "mod_file_Sleeves Transparent",
+      "mod_file_Hide Sleeves",
+      "mod_file_Keep Sleeves",
+      "separator_Cuff(Choose Only One)",
+      "mod_file_Hide Feathers",
+      "mod_file_Keep Feathers",
+      "separator_Gloves(Choose Only One)",
+      "mod_file_Hide Gloves",
+      "mod_file_Gloves Finger less",
+      "mod_file_Keep Gloves",
+      "separator_Back(Choose Only One)",
+      "mod_file_Back Transparent",
+      "mod_file_Hide Back",
+      "mod_file_Keep Back",
+      "separator_Panties_Leotard(Choose Only One)",
+      "mod_file_Panties Transparent",
+      "mod_file_Panties Transparent Black",
+      "mod_file_Hide Panties",
+      "mod_file_Keep Panties",
+      "separator_Skirt(Choose Only One)",
+      "mod_file_Skirt Transparent",
+      "mod_file_Hide Skirt",
+      "mod_file_Keep Skirt",
+      "separator_Ribbon(Choose Only One)",
+      "mod_file_Ribbon Smaller",
+      "mod_file_Hide Ribbon",
+      "mod_file_Keep Ribbon",
+      "separator_LegBand(Choose Only One)",
+      "mod_file_Hide LegBand",
+      "mod_file_Keep LegBand",
+      "separator_Stockings(Choose Only One)",
+      "mod_file_Hide Stockings",
+      "mod_file_Keep Stockings",
+      "separator_Boots(Choose Only One)",
+      "mod_file_Hide Boots",
+      "mod_file_Keep Boots",
+      "separator_Pubes(Choose Only One)",
+      "mod_file_Add Pubes",
+      "mod_file_No Pubes",
+      "separator_Skin(Choose Only One)",
+      "mod_file_Shiny Skin",
+      "mod_file_Original Skin"
+    ]
+  }
+]
