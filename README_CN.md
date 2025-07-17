@@ -12,6 +12,12 @@
 
 ![FMMxMod-Creator banner](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/banner_pic.png)
 
+<div align="center">
+
+## README_ZH | [📖 README_EN](README.md)
+
+</div>
+
 **🚀 专为游戏MOD爱好者打造的现代化MOD创建工具**
 
 *使用美观的UI和现代化的便捷操作，无需理解和写任何代码，即可构建出极为复杂配置的`Fluffy Mod Manager`MOD文件包。*
@@ -139,7 +145,7 @@ python main.py
 
 <div align="center">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LnWoCBpKzdI?si=pOyXN4bgmFIaeZro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<video src="https://github.com/ArjunLee/FMMxMod-Creator/raw/refs/heads/main/Other/video/Mod_effect_display_video.mp4" width="70%" poster=""> </video>
 
 *此视频展示了使用本工具制作的MOD在FFM中的实际效果*
 
