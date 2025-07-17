@@ -1,6 +1,6 @@
 # FMM x Mod Creator App
 
-![FMMxMod-Creator Logo](https://raw.githubusercontent.com/ArjunLee/FMMxMod-Creator/Other/image/banner_pic.png)
+[![FMMxMod-Creator Logo](https://raw.githubusercontent.com/ArjunLee/FMMxMod-Creator/Other/image/banner_pic.png)](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/banner_pic.png)
 
 FMM x Mod Creator 是一个转为游戏MOD爱好者打造的MOD创建工具，使用美观的UI和现代化的便捷操作，让每一个人都可以构建出，极为复杂配置的`Fluffy Mod Manager`MOD文件包。
 
