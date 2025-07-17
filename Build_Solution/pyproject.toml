@@ -1,0 +1,137 @@
+[build-system]
+requires = ["setuptools>=45", "wheel", "nuitka"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fmm-mod-creator"
+dynamic = ["version"]
+description = "FMM x Mod Creator - A modern desktop application for game mod creators"
+authors = [{name = "Arjun520", email = "arjun@example.com"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Operating System :: Microsoft :: Windows",
+    "Topic :: Software Development :: Tools",
+    "Topic :: Games/Entertainment"
+]
+dependencies = [
+    "PySide6>=6.5.0",
+    "PySide6-Fluent-Widgets>=1.4.0",
+    "Pillow>=9.0.0",
+    "requests>=2.28.0"
+]
+
+[project.urls]
+Homepage = "https://github.com/ArjunLee/FMMxMod-Creator"
+Repository = "https://github.com/ArjunLee/FMMxMod-Creator"
+Issues = "https://github.com/ArjunLee/FMMxMod-Creator/issues"
+
+[tool.setuptools.dynamic]
+version = {attr = "app.common.version_info.VERSION_STRING"}
+
+# Nuitka 配置
+[tool.nuitka]
+# 基本配置
+main = "main.py"
+output-dir = "dist"
+output-filename = "FMM x Mod Creator.exe"
+
+# 单文件打包
+onefile = true
+remove-output = true
+
+# 插件和优化
+enable-plugins = ["pyside6"]
+nofollow-imports = ["tkinter", "matplotlib", "numpy"]
+assume-yes-for-downloads = true
+
+# Windows 特定配置
+windows-console-mode = "disable"
+windows-icon-from-ico = "app/Resources/FMMxModCreator_Icon.ico"
+
+# 数据文件包含
+include-data-dirs = [
+    "app/Resources=Resources"
+]
+include-data-files = [
+    "app/common/version_info.py=app/common/version_info.py"
+]
+
+# 性能和调试
+show-progress = true
+show-memory = true
+
+# 版本信息（将通过脚本动态设置）
+# windows-file-version = "动态设置"
+# windows-product-version = "动态设置"
+# windows-file-description = "动态设置"
+# windows-product-name = "动态设置"
+# windows-company-name = "动态设置"
+
+[tool.nuitka.data-files]
+# 配置文件处理
+# 在单文件模式下，配置文件将被复制到exe同目录
+config = {
+    dirs = ["app/config"],
+    dest_path = "app/config",
+    when = "onefile"
+}
+
+[tool.nuitka.dlls]
+# DLL 处理（如果需要）
+# 在单文件模式下，某些DLL可能需要特殊处理
+
+# 开发工具配置
+[tool.black]
+line-length = 88
+target-version = ['py38']
+include = '\.pyi?$'
+extend-exclude = '''
+(
+  /(
+      \.eggs
+    | \.git
+    | \.hg
+    | \.mypy_cache
+    | \.tox
+    | \.venv
+    | _build
+    | buck-out
+    | build
+    | dist
+  )/
+)
+'''
+
+[tool.isort]
+profile = "black"
+line_length = 88
+multi_line_output = 3
+include_trailing_comma = true
+force_grid_wrap = 0
+use_parentheses = true
+ensure_newline_before_comments = true
+
+[tool.flake8]
+max-line-length = 88
+extend-ignore = ["E203", "W503"]
+exclude = [
+    ".git",
+    "__pycache__",
+    "build",
+    "dist",
+    ".eggs",
+    "*.egg-info",
+    ".venv",
+    "venv"
+]
