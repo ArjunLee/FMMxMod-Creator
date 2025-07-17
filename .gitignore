@@ -1,0 +1,15 @@
+# Custom ignore
+.console_temp/
+.CosyVoiceApp/
+.development_file/
+.examples/
+.notes/
+.trae/
+output/*
+Test_Project/
+dist/
+.Install_Studio/
+
+
+# Python cache
+__pycache__/
