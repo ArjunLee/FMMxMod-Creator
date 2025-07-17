@@ -8,6 +8,9 @@
 output/*
 Test_Project/
 .Install_Studio/
+*使用手册.md
+*Manual*.md
+Demo Projects - MOD Source Files/
 
 # Deprecated build solution
 build.bat
