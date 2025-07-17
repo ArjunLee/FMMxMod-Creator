@@ -1,5 +1,7 @@
 <div align="center">
 
+[![FMMxMod-Creator Logo](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/banner_pic.png)](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/banner_pic.png)
+
 # 🎮 FMM x Mod Creator App
 
 [![Language](https://img.shields.io/badge/Language-中文-blue.svg)](README_CN.md)
@@ -9,8 +11,6 @@
 [![PySide6](https://img.shields.io/badge/PySide6-Qt6-brightgreen.svg)](https://doc.qt.io/qtforpython/)
 [![Stars](https://img.shields.io/github/stars/ArjunLee/FMMxMod-Creator?style=social)](https://github.com/ArjunLee/FMMxMod-Creator/stargazers)
 [![Forks](https://img.shields.io/github/forks/ArjunLee/FMMxMod-Creator?style=social)](https://github.com/ArjunLee/FMMxMod-Creator/network/members)
-
-![FMMxMod-Creator banner](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/banner_pic.png)
 
 **🚀 Modern MOD Creation Tool for Game MOD Enthusiasts**
 
@@ -94,6 +94,7 @@ python main.py
 
 ---
 
+<<<<<<< HEAD
 ## 🎯 Quick Start
 
 ### 1️⃣ Create Your First MOD
@@ -359,3 +360,6 @@ FMMxMod-Creator/
 ├── 📋 requirements.txt                    # Python dependencies list
 └── 📦 测试错误的构建配置文件导入.zip        # Test file
 ```
+=======
+**注意**: 本项目仍在积极开发中，功能和API可能会发生变化。建议在生产环境使用前进行充分测试。
+>>>>>>> README-regular-update
