@@ -13,3 +13,7 @@ dist/
 
 # Python cache
 __pycache__/
+
+
+# Deprecated build solution
+build.bat
