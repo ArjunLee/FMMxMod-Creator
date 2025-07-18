@@ -28,81 +28,81 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
-### 🎯 Using Pre-built Version (Recommended)
+### Using Pre-built Version (Recommended)
 
 ![Installation Screenshot](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/PixPin_2025-07-18_02-08-07.png)
 
-1. 📥 Download the latest installer from [Release page](https://github.com/ArjunLee/FMMxMod-Creator/releases)
-2. 📂 Import from `Mod List → Import Record`: `root\FMMxMOD-Creator_build-record-20250716_2325.zip` to restore the example build template I provided
-3. ✨ Restore the editor layout from `Action Button → Re-edit`. This is an extremely complex example that helps you fully understand how to use the editor
+1. Download the latest installer from [Release page](https://github.com/ArjunLee/FMMxMod-Creator/releases)
+2. Import from `Mod List → Import Record`: `root\FMMxMOD-Creator_build-record-20250716_2325.zip` to restore the example build template I provided
+3. Restore the editor layout from `Action Button → Re-edit`. This is an extremely complex example that helps you fully understand how to use the editor
 
-### 🛠️ Deploy from Source
+### Deploy from Source
 
-#### 📋 Installation Steps
+#### Installation Steps
 
-1. **🐍 Create Python Environment**
+1. **Create Python Environment**
 ```bash
 conda create -n py313_env python=3.13 -y
 conda activate py313_env
 ```
 
-2. **📥 Clone Project**
+2. **Clone Project**
 ```bash
 git clone https://github.com/ArjunLee/FMMxMod-Creator.git
 cd FMMxMod-Creator
 ```
 
-3. **📦 Install Dependencies**
+3. **Install Dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-4. **🚀 Run Application**
+4. **Run Application**
 ```bash
 python main.py
 ```
 
 ---
 
-## 🌟 Features
+## Features
 
-### 🌍 Core Features
-- **🌐 Multi-language Support**: Real-time switching between `Chinese🇨🇳, English🇺🇸, Japanese🇯🇵, Korean🇰🇷`
-- **🎨 Modern UI**: Fluent Design style interface based on modern aesthetics
-- **🖱️ Drag & Drop**: Use drag actions to sort blocks without writing any code
-- **📱 Responsive Design**: Adaptive layout supporting different screen sizes and resolutions
+### Core Features
+- **Multi-language Support**: Real-time switching between `Chinese🇨🇳, English🇺🇸, Japanese🇯🇵, Korean🇰🇷`
+- **Modern UI**: Fluent Design style interface based on modern aesthetics
+- **Drag & Drop**: Use drag actions to sort blocks without writing any code
+- **Responsive Design**: Adaptive layout supporting different screen sizes and resolutions
 
-### 📁 MOD File Management
-- **➕ File Operations**: Support adding files, folders, renaming, and other operations
-- **🏷️ Custom Tags**: Support custom tagging of blocks for easy location when blocks are collapsed
-- **🔍 Smart Search**: Quickly find and locate MOD files
-- **📋 Batch Operations**: Support batch selection and operations on multiple files
+### MOD File Management
+- **File Operations**: Support adding files, folders, renaming, and other operations
+- **Custom Tags**: Support custom tagging of blocks for easy location when blocks are collapsed
+- **Smart Search**: Quickly find and locate MOD files
+- **Batch Operations**: Support batch selection and operations on multiple files
 
-### 🗃️ MOD Repository Management
-- **💾 Backup Build Records**: Manually backup MOD build history to ensure data safety
-- **📤 Import Build Records**: Share build records and collaborate with others
-- **🔄 Persistent Builds**: Restore editor layout from build history anytime for version iteration
-- **📊 Version Comparison**: Visual comparison of differences between versions
+### MOD Repository Management
+- **Backup Build Records**: Manually backup MOD build history to ensure data safety
+- **Import Build Records**: Share build records and collaborate with others
+- **Persistent Builds**: Restore editor layout from build history anytime for version iteration
+- **Version Comparison**: Visual comparison of differences between versions
 
-### ⚙️ Fully Automated Building
-- **🤖 Smart Building**: Automatically complete folder structures supported by FMM
-- **📦 Multi-format Support**: Support packaging as `.zip`, `.7z`, `.rar` formats
-- **⚡ Fast Building**: Optimized build algorithms for significantly improved build speed
-- **🔧 Custom Configuration**: Flexible build parameter configuration
+### Fully Automated Building
+- **Smart Building**: Automatically complete folder structures supported by FMM
+- **Multi-format Support**: Support packaging as `.zip`, `.7z`, `.rar` formats
+- **Fast Building**: Optimized build algorithms for significantly improved build speed
+- **Custom Configuration**: Flexible build parameter configuration
 
-### 🎛️ Advanced Settings
-- **💾 Build Cache**: Customizable cache path, default: `%appdata%\FMM x MOD Creator\.cache`
-- **📂 Build Output**: Customizable output path, default: `Desktop`
-- **🎨 Theme Switching**: Support light/dark theme switching
-- **🔔 Notification System**: Build completion and error notifications
+### Advanced Settings
+- **Build Cache**: Customizable cache path, default: `%appdata%\FMM x MOD Creator\.cache`
+- **Build Output**: Customizable output path, default: `Desktop`
+- **Theme Switching**: Support light/dark theme switching
+- **Notification System**: Build completion and error notifications
 
 ---
 
-## 🎯 Quick Start
+## Quick Start
 
-### 1️⃣ Create Your First MOD
+### Create Your First MOD
 1. Install the application  
 2. Download from the [Release page](https://github.com/ArjunLee/FMMxMod-Creator/releases):  
    - `Demo Projects - MOD Source Files.7z`  
@@ -111,7 +111,7 @@ python main.py
 4. Extract `Demo Projects - MOD Source Files.7z`  
 5. Restore the workspace layout from `MOD Repository` to begin creating MODs.
 
-### 3️⃣ Detailed Tutorial Manuals
+### Detailed Tutorial Manuals
 
 We provide detailed tutorial manuals for users of different languages:
 
@@ -126,34 +126,23 @@ We provide detailed tutorial manuals for users of different languages:
 
 <div align="center">
 
-### 🏠 Main Interface
 ![Main Interface Screenshot](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/PixPin_2025-07-18_05-09-52.png)
 
-### 📋 MOD Repository
 ![MOD Repository Screenshot](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/PixPin_2025-07-18_05-11-36.png)
 
-### ⚙️ Settings Page
 ![Settings Page Screenshot](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/PixPin_2025-07-18_05-12-32.png)
 
 </div>
 
 ---
 
-## 🎬 Demo Video
+## App Feature Showcase
 
-### 📹 MOD Creation Effect Video
-
-<div align="center">
-
-<video src="https://github.com/ArjunLee/FMMxMod-Creator/raw/refs/heads/main/Other/video/Mod_effect_display_video.mp4" width="70%" poster=""> </video>
-
-*此视频展示了使用本工具制作的MOD在FFM中的实际效果*
-
-</div>
+Video: https://www.bilibili.com/video/BV1ZFgGzTEGY/
 
 ---
 
-## 🏆 Showcase
+## Showcase
 
 Here are real MOD cases created with this tool and published on Nexusmods:
 
@@ -175,33 +164,33 @@ Here are real MOD cases created with this tool and published on Nexusmods:
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Technology | Version | Purpose |
 |------------|---------|----------|
-| **🐍 Python** | 3.13+ | Main development language |
-| **🖼️ PySide6** | Latest | Python bindings for Qt6, providing modern GUI |
-| **🎨 PySide6-Fluent-Widgets** | Latest | Fluent Design style UI component library |
-| **📦 py7zr** | Latest | 7z compression file handling |
-| **📁 rarfile** | Latest | RAR file handling |
-| **⚡ Nuitka** | Latest | Python code compilation and packaging |
+| **Python** | 3.13+ | Main development language |
+| **PySide6** | Latest | Python bindings for Qt6, providing modern GUI |
+| **PySide6-Fluent-Widgets** | Latest | Fluent Design style UI component library |
+| **py7zr** | Latest | 7z compression file handling |
+| **rarfile** | Latest | RAR file handling |
+| **Nuitka** | Latest | Python code compilation and packaging |
 
-### 🔨 About Building
+### About Building
 
 We provide automated `Nuitka` packaging solutions. You can choose different options based on your needs:
 
 ```bash
-# 🌟 Recommended: Standalone packaging (faster startup)
+# Recommended: Standalone packaging (faster startup)
 Build_Solution\build_standalone_data.bat
 # Or use Python script
 python Build_Solution\build_nuitka-standalone_data.py
 
-# 📦 Single file option (easier distribution)
+# Single file option (easier distribution)
 Build_Solution\build_single_exe.bat
 # Or use Python script
 python Build_Solution\build_nuitka-single_exe.py
 
-# ⚠️ Legacy build method (deprecated)
+# Legacy build method (deprecated)
 build.bat
 ```
 
@@ -209,51 +198,19 @@ build.bat
 
 ---
 
-## 🤝 Contributing
-
-We welcome all forms of contributions! 🎉
-
-### 🐛 Report Issues
-- Submit bug reports on the [Issues page](https://github.com/ArjunLee/FMMxMod-Creator/issues)
-- Please describe the problem and reproduction steps in detail
-
-### 💡 Feature Suggestions
-- Share your ideas on the [Discussions page](https://github.com/ArjunLee/FMMxMod-Creator/discussions)
-- Participate in feature discussions and voting
-
-
-
----
-
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🐛 Issue Reporting
+## Issue Reporting
 
 If you encounter any problems or have feature suggestions, please contact us through the following channels:
 
 - 🐛 [Issues Page](https://github.com/ArjunLee/FMMxMod-Creator/issues) - Report bugs and feature requests
 - 💬 [Discussions Page](https://github.com/ArjunLee/FMMxMod-Creator/discussions) - Community discussions and exchanges
-- 📧 [Contact Author](mailto:shin3sango@qq.com) - Direct contact with developer
-
----
-
-## 📞 Contact
-
-<div align="center">
-
-| Platform | Link | Description |
-|----------|------|-------------|
-| 🏠 **Project Home** | [GitHub Repository](https://github.com/ArjunLee/FMMxMod-Creator) | Source code and releases |
-| 🐛 **Issue Reporting** | [Issues](https://github.com/ArjunLee/FMMxMod-Creator/issues) | Bug reports and feature requests |
-| 💬 **Community Discussion** | [Discussions](https://github.com/ArjunLee/FMMxMod-Creator/discussions) | User communication and discussion |
-| 📖 **Documentation** | [Wiki](https://github.com/ArjunLee/FMMxMod-Creator/wiki) | Detailed usage tutorials |
-| 💬 **WeChat Contact** | WX - shin3sango | Developer WeChat |
-
-</div>
+- 📧 [Contact Me](mailto:shin3sango@qq.com) - Email
 
 ---
 
@@ -271,15 +228,7 @@ If this project helps you, consider buying me a coffee to support development! �
 
 ---
 
-
-
 <div align="center">
-
-**⚠️ Note**: This project is still under active development, and features and APIs may change. It is recommended to conduct thorough testing before using in production environments.
-
-**🎉 Thanks to all contributors and users for their support!**
-
----
 
 *Made with ❤️ by [ArjunLee](https://github.com/ArjunLee)*
 
@@ -306,12 +255,6 @@ FMMxMod-Creator/
 │   └── ⚙️ pyproject.toml                  # Project configuration file
 ├── 📦 FMMxMOD-Creator_build-record-*.zip  # Example build records
 ├── 📄 LICENSE                             # MIT open source license
-├── 📁 Other/                              # 🎨 Other resource files
-│   ├── 📁 image/                          # Image resources
-│   │   ├── 🖼️ banner_pic.png              # Project banner image
-│   │   └── 🖼️ PixPin_2025-07-18_02-08-07.png # Installation screenshot
-│   └── 📁 video/                          # Video resources
-│       └── 🎬 Mod_effect_display_video.mp4 # MOD effect display video
 ├── 📄 README_CN.md                        # Chinese documentation
 ├── 📄 README.md                           # English documentation
 ├── 📁 app/                                # 🏠 Main application directory

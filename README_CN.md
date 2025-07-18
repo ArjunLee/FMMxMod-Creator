@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## README_ZH | [📖 README_EN](README.md)
+## README_CN | [📖 README_EN](README.md)
 
 </div>
 
@@ -28,81 +28,81 @@
 
 ---
 
-## 📦 安装方式
+## 安装方式
 
-### 🎯 使用预编译版本（推荐）
+### 使用预编译版本（推荐）
 
 ![安装包截图](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/PixPin_2025-07-18_02-08-07.png)
 
-1. 📥 从[Release页面](https://github.com/ArjunLee/FMMxMod-Creator/releases)下载最新的安装包
-2. 📂 从`Mod列表 → 导入记录`导入：`root\FMMxMOD-Creator_build-record-20250716_2325.zip`，恢复我提供的示例构建模版
-3. ✨ 从`操作按钮 → 再度编撰`恢复编辑器的布局，这是一个极为复杂的示例，有助于你充分了解编辑器的使用
+1. 从[Release页面](https://github.com/ArjunLee/FMMxMod-Creator/releases)下载最新的安装包
+2. 从`Mod列表 → 导入记录`导入：`root\FMMxMOD-Creator_build-record-20250716_2325.zip`，恢复我提供的示例构建模版
+3. 从`操作按钮 → 再度编撰`恢复编辑器的布局，这是一个极为复杂的示例，有助于你充分了解编辑器的使用
 
-### 🛠️ 从源码部署
+### 从源码部署
 
-#### 📋 安装步骤
+#### 安装步骤
 
-1. **🐍 使用Conda创建Python环境**
+1. **使用Conda创建Python环境**
 ```bash
 conda create -n py313_env python=3.13 -y
 conda activate py313_env
 ```
 
-2. **📥 克隆项目到本地**
+2. **克隆项目到本地**
 ```bash
 git clone https://github.com/ArjunLee/FMMxMod-Creator.git
 cd FMMxMod-Creator
 ```
 
-3. **📦 安装依赖**
+3. **安装依赖**
 ```bash
 pip install -r requirements.txt
 ```
 
-4. **🚀 运行应用**
+4. **运行应用**
 ```bash
 python main.py
 ```
 
 ---
 
-## 🌟 功能特性
+## 功能特性
 
-### 🌍 核心功能
-- **🌐 多语言支持**: 支持`中文🇨🇳、英文🇺🇸、日文🇯🇵、韩文🇰🇷`四种语言实时切换
-- **🎨 现代化UI**: 基于现代美学的 Fluent Design 风格UI界面
-- **🖱️ 拖与拽**: 使用拖拽动作来对区块进行排序，无需编写任何代码
-- **📱 响应式设计**: 支持不同屏幕尺寸和分辨率的自适应布局
+### 核心功能
+- **多语言支持**: 支持`中文🇨🇳、英文🇺🇸、日文🇯🇵、韩文🇰🇷`四种语言实时切换
+- **现代化UI**: 基于现代美学的 Fluent Design 风格UI界面
+- **拖与拽**: 使用拖拽动作来对区块进行排序，无需编写任何代码
+- **响应式设计**: 支持不同屏幕尺寸和分辨率的自适应布局
 
-### 📁 MOD文件管理
-- **➕ 文件操作**: 支持添加文件、文件夹、重命名等操作
-- **🏷️ 自定义标记**: 支持对区块进行自定义标记，方便在区块收起时定位作用
-- **🔍 文件定位**: 快速查找和定位MOD文件
-- **📋 批量操作**: 支持批量选择和操作多个文件
+### MOD文件管理
+- **文件操作**: 支持添加文件、文件夹、重命名等操作
+- **自定义标记**: 支持对区块进行自定义标记，方便在区块收起时定位作用
+- **文件定位**: 快速查找和定位MOD文件
+- **批量操作**: 支持批量选择和操作多个文件
 
-### 🗃️ MOD仓库管理
-- **💾 备份构建记录**: 手动备份MOD构建历史，确保数据安全
-- **📤 导入构建记录**: 分享构建记录，与他人合作创作
-- **🔄 永久化构建**: 随时从构建历史中选择版本，恢复编辑器布局进行版本迭代
-- **📊 版本对比**: 可视化对比不同版本间的差异
+### MOD仓库管理
+- **备份构建记录**: 手动备份MOD构建历史，确保数据安全
+- **导入构建记录**: 分享构建记录，与他人合作创作
+- **永久化构建**: 随时从构建历史中选择版本，恢复编辑器布局进行版本迭代
+- **版本对比**: 可视化对比不同版本间的差异
 
-### ⚙️ 全自动构建
-- **🤖 智能构建**: 全自动完成FMM所支持的文件夹结构
-- **📦 多格式支持**: 支持打包为`.zip`、`.7z`、`.rar`格式
-- **⚡ 快速构建**: 优化的构建算法，大幅提升构建速度
-- **🔧 自定义配置**: 灵活的构建参数配置
+### 全自动构建
+- **智能构建**: 全自动完成FMM所支持的文件夹结构
+- **多格式支持**: 支持打包为`.zip`、`.7z`、`.rar`格式
+- **快速构建**: 优化的构建算法，大幅提升构建速度
+- **自定义配置**: 灵活的构建参数配置
 
-### 🎛️ 设置
-- **💾 构建缓存**: 可自定义缓存路径，默认：`%appdata%\FMM x MOD Creator\.cache`
-- **📂 构建输出**: 可自定义输出路径，默认：`桌面`
-- **🎨 主题切换**: 支持明暗主题切换
-- **🔔 通知系统**: 构建完成和错误提醒
+### 设置
+- **构建缓存**: 可自定义缓存路径，默认：`%appdata%\FMM x MOD Creator\.cache`
+- **构建输出**: 可自定义输出路径，默认：`桌面`
+- **主题切换**: 支持明暗主题切换
+- **通知系统**: 构建完成和错误提醒
 
 ---
 
-## 🎯 快速开始
+## 快速开始
 
-### 1️⃣ 创建你的第一个MOD
+### 创建你的第一个MOD
 1. 安装应用
 2. 从[Release页面](https://github.com/ArjunLee/FMMxMod-Creator/releases)下载：
    - `Demo Projects - MOD Source Files.7z`
@@ -111,9 +111,9 @@ python main.py
 4. 解压缩`Demo Projects - MOD Source Files.7z`
 5. 从`MOD府库`恢复工作区布局，即可开始制作MOD。
 
-### 3️⃣ 详细教学手册
+### 详细教学手册
 
-我们为不同语言的用户提供了详细的教学手册：
+我为不同语言的用户提供了详细的教学手册：
 
 - 📚 [中文教学手册](https://www.yuque.com/lilaoshi-c4hmh/esrvuh/eqg0qcvzd05g3dy4) 🇨🇳
 - 📚 [English Tutorial Manual](https://www.yuque.com/lilaoshi-c4hmh/esrvuh/qh3km88g2ma10pi5) 🇺🇸
@@ -122,38 +122,27 @@ python main.py
 
 ---
 
-## 📸 应用截图
+## 应用截图
 
 <div align="center">
 
-### 🏠 主界面
 ![主界面截图](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/PixPin_2025-07-18_05-09-52.png)
 
-### 📋 MOD府库
 ![MOD府库截图](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/PixPin_2025-07-18_05-11-36.png)
 
-### ⚙️ 设置页面
 ![设置页面截图](https://github.com/ArjunLee/FMMxMod-Creator/blob/main/Other/image/PixPin_2025-07-18_05-12-32.png)
 
 </div>
 
 ---
 
-## 🎬 效果展示
+## App功能展示
 
-### 📹 MOD制作效果视频
-
-<div align="center">
-
-<video src="https://github.com/ArjunLee/FMMxMod-Creator/raw/refs/heads/main/Other/video/Mod_effect_display_video.mp4" width="70%" poster=""> </video>
-
-*此视频展示了使用本工具制作的MOD在FFM中的实际效果*
-
-</div>
+视频：https://www.bilibili.com/video/BV1ZFgGzTEGY/
 
 ---
 
-## 🏆 案例展示
+## 案例展示
 
 以下是使用本工具制作并发布在Nexusmods上的真实MOD案例：
 
@@ -175,33 +164,33 @@ python main.py
 
 ---
 
-### 🛠️ 技术栈
+### 技术栈
 
 | 技术 | 版本 | 用途 |
 |------|------|------|
-| **🐍 Python** | 3.13+ | 主要开发语言 |
-| **🖼️ PySide6** | Latest | Qt6的Python绑定，提供现代化GUI |
-| **🎨 PySide6-Fluent-Widgets** | Latest | Fluent Design风格的UI组件库 |
-| **📦 py7zr** | Latest | 7z压缩文件处理 |
-| **📁 rarfile** | Latest | RAR文件处理 |
+| **Python** | 3.13+ | 主要开发语言 |
+| **PySide6** | Latest | Qt6的Python绑定，提供现代化GUI |
+| **PySide6-Fluent-Widgets** | Latest | Fluent Design风格的UI组件库 |
+| **py7zr** | Latest | 7z压缩文件处理 |
+| **rarfile** | Latest | RAR文件处理 |
 | **⚡ Nuitka** | Latest | Python代码编译和打包 |
 
-### 🔨 关于构建
+### 关于构建
 
-我们提供了`Nuitka`打包的自动化解决方案，您可以根据需要选择不同的方案：
+我提供了`Nuitka`打包的自动化解决方案，可以根据需要选择不同的方案：
 
 ```bash
-# 🌟 推荐方案: 分散打包 (启动快)
+# 推荐方案: 分散打包
 Build_Solution\build_standalone_data.bat
 # 或使用Python脚本
 python Build_Solution\build_nuitka-standalone_data.py
 
-# 📦 单文件方案 (便于分发)
+# 单文件方案
 Build_Solution\build_single_exe.bat
 # 或使用Python脚本
 python Build_Solution\build_nuitka-single_exe.py
 
-# ⚠️ 传统构建方式（已弃用）
+# 传统构建方式（已弃用）
 build.bat
 ```
 
@@ -209,51 +198,19 @@ build.bat
 
 ---
 
-## 🤝 贡献指南
-
-我们欢迎所有形式的贡献！🎉
-
-### 🐛 报告问题
-- 在[Issues页面](https://github.com/ArjunLee/FMMxMod-Creator/issues)提交bug报告
-- 请详细描述问题和复现步骤
-
-### 💡 功能建议
-- 在[Discussions页面](https://github.com/ArjunLee/FMMxMod-Creator/discussions)分享你的想法
-- 参与功能讨论和投票
-
-
-
----
-
-## 📄 开源协议
+## 开源协议
 
 本项目采用 [MIT License](LICENSE) 开源协议。
 
 ---
 
-## 🐛 问题反馈
+## 问题反馈
 
 如果您遇到任何问题或有功能建议，请在以下渠道联系我们：
 
 - 🐛 [Issues页面](https://github.com/ArjunLee/FMMxMod-Creator/issues) - 报告bug和功能请求
 - 💬 [Discussions页面](https://github.com/ArjunLee/FMMxMod-Creator/discussions) - 社区讨论和交流
-- 📧 [联系作者](mailto:shin3sango@qq.com) - Email
-
----
-
-## 📞 联系方式
-
-<div align="center">
-
-| 平台 | 链接 | 描述 |
-|------|------|------|
-| 🏠 **项目主页** | [GitHub Repository](https://github.com/ArjunLee/FMMxMod-Creator) | 项目源码和发布 |
-| 🐛 **问题反馈** | [Issues](https://github.com/ArjunLee/FMMxMod-Creator/issues) | Bug报告和功能请求 |
-| 💬 **社区讨论** | [Discussions](https://github.com/ArjunLee/FMMxMod-Creator/discussions) | 用户交流和讨论 |
-| 📖 **使用文档** | [Wiki](https://github.com/ArjunLee/FMMxMod-Creator/wiki) | 详细使用教程 |
-| 💬 **微信联系** | WX - shin3sango | 开发者微信 |
-
-</div>
+- 📧 [联系我](mailto:shin3sango@qq.com) - Email
 
 ---
 
@@ -272,12 +229,6 @@ build.bat
 ---
 
 <div align="center">
-
-**⚠️ 注意**: 本项目仍在积极开发中，功能和API可能会发生变化。建议在生产环境使用前进行充分测试。
-
-**🎉 感谢所有贡献者和用户的支持！**
-
----
 
 *Made with ❤️ by [ArjunLee](https://github.com/ArjunLee)*
 
